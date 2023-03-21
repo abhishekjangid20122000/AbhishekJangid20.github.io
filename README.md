@@ -12,13 +12,13 @@
 Login Credentials:
                Email         Password
 
-1. Admin:- admin@gmail.com   admin123
+1. Admin:- admin@gmail.com : admin123;
 
-2. Users:- user1@gmail.com   123
-           user2@gmail.com   123
+2. Users:- user1@gmail.com : 123;
+           user2@gmail.com : 123;
           
-3. Hosp:-  hos1@gmail.com    123
-           hos2@gmail.com    123
-           hos3@gmail.com    123
-           hos4@gmail.com    123
-           hos5@gmail.com    123
+3. Hosp:-  hos1@gmail.com  : 123;
+           hos2@gmail.com  : 123;
+           hos3@gmail.com  : 123;
+           hos4@gmail.com  : 123;
+           hos5@gmail.com  : 123;
